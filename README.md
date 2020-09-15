@@ -19,7 +19,7 @@ This web app is part of Rocketseat Bootcamp classes where I study how to develop
     git clone https://github.com/stgonzales/github-explorer
     ```
 2. Execute `yarn` to install all the packges.
-<br/>
+
 3. And last but least, execute
     ```javascript
     yarn start
