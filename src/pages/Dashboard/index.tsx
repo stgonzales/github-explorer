@@ -95,6 +95,10 @@ const Dashboard: React.FC = () => {
                     </Link>
                 ))}
             </Repositories>
+
+            <footer>
+                Developed with ❤️ by <a href="https://github.com/stgonzales/github-explorer">Gonzales!</a>
+            </footer>
         </>
     )
 }

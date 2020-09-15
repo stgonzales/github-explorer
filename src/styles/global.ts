@@ -28,4 +28,17 @@ export default createGlobalStyle`
     button{
         cursor: pointer;
     }
+
+    footer {
+        position: static;
+        width: 100%;
+        bottom: 0;
+        left: 0;
+        margin: 15px 0;
+        padding: 20px;
+        text-align: center;
+        color: #3A3A3A;
+
+        font: 12px 'Robot', sans-serif;
+    }
 `

@@ -96,6 +96,10 @@ const Repository: React.FC = () => {
                     </a>
                 ))}
             </Issues>
+
+            <footer>
+                Developed with ❤️ by <a href="https://github.com/stgonzales/github-explorer">Gonzales!</a>
+            </footer>
         </>
     )
 }
